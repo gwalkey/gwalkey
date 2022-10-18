@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gwalkey
-- 👀 I’m interested in Jesus, The Word and His Spirit
+- 👀 I’m interested in reaching the Lost for Christ
 - 🌱 I’m currently learning R, BigData, Synapse, KQL, Parquet and Data Science
-- 💞️ I’m looking to collaborate on Bill Gates' Billions for REAL research
+- 💞️ I’m looking to collaborate with Bill Gates' billions for benign research this time
 - 📫 How to reach me ... Moon Relay 27 SubSection 12, Near 7/9
 
 <!---
