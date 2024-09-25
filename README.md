@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gwalkey
 - 👀 I’m interested in reaching the Lost for Christ
-- 🌱 I’m currently learning R, BigData, Synapse, KQL, Parquet and Data Science
-- 💞️ I’m looking to collaborate with Bill Gates' billions for benign research this time
-- 📫 How to reach me ... Moon Relay 27 SubSection 12, Near 7/9
+- 🌱 I’m currently learning Python, R, BigData, Fabric, KQL, ADX, Parquet and Data Science
+- 💞️ I’m looking to collaborate with Bill Gates' billions but for benign research this time
+- 📫 How to reach me ... Moon Unit 27, SubSection 12, Docking Bay 12, Near 7/9 Tertiary adjunct to the Queen
 
 <!---
 gwalkey/gwalkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
